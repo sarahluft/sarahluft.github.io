@@ -15,8 +15,14 @@ h2 {
   padding: .8em 0;
 }
 nav {
-  font-size: 1.8em;
+  font-size: 1.5em;
   float: right;
+}
+nav a { 
+  text-decoration: none;
+  color: black;
+  margin: 1.5em;
+  display: inline-block;
 }
 ul {
   list-style: none;
