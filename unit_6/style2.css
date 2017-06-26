@@ -25,6 +25,9 @@ nav a {
   margin: 1.2em;
   display: inline-block;
 }
+#sarah {
+  float:left;
+}
 #nav2 {
   float: left;
 }
