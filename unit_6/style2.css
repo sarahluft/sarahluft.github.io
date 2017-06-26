@@ -1,0 +1,51 @@
+body {
+  font-size: 18px;
+  font-family: sans-serif;
+  background-image: url("images/catandmural.jpg");
+  background-color: #cccccc;
+}
+h1, h2 {
+  text-transform: lowercase;
+  display: inline-block;
+}
+h1 {
+  font-size: 2em;
+}
+h2 {
+  font-size: 1.5em;
+  padding: .8em 0;
+}
+ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+#two_column {
+    background-color: #FFB7CF;
+    border: 1px black solid;
+    padding: 20px;
+}
+
+#left {
+    background-color: violet;
+    border: 1px black solid;
+    padding: 20px;
+    float: left;
+    width: 30%;
+}
+
+#right {
+    background-color: pink;
+    border: 1px black solid;
+    padding: 20px;
+    float: right;   
+    width: 62%;
+}
+.clearfix:after {
+    visibility: hidden;
+    display: block;
+    font-size: 0;
+    content: " ";
+    clear: both;
+    height: 0;
+}
