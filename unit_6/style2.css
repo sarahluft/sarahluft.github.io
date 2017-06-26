@@ -27,16 +27,19 @@ ul {
 
 #left {
     background-color: violet;
-    border: 1px black solid;
-    padding: 20px;
+    border: 0px;
+    padding-right: 0px;
+    padding-left: 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
     float: left;
     width: 30%;
 }
 
 #right {
     background-color: pink;
-    border: 1px black solid;
-    padding: 20px;
+    border: 0px;
+    padding: 10px;
     float: right;   
     width: 62%;
 }
