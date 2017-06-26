@@ -31,8 +31,8 @@ ul {
   padding: 0;
 }
 #about {
-  padding: 50px
-  width: 30%
+  padding: 50px;
+  max-width: 650px;
 }
 #two_column {
     background-color: pink;
@@ -49,7 +49,7 @@ ul {
     padding-bottom: 10px;
     float: left;
     width: 30%;
-    font-size: 12px;
+    font-size: 1em;
     font-weight: bold;
     font-style: sans-serif;
 }
@@ -60,7 +60,7 @@ ul {
     padding: 10px;
     float: right;   
     width: 62%;
-    font-size: 12px;
+    font-size: 1em;
     font-family: sans-serif;
     font-weight: normal;
 }
