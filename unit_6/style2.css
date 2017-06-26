@@ -31,8 +31,8 @@ ul {
   padding: 0;
 }
 #about {
-  padding: 50px;
   max-width: 650px;
+  margin: 0 auto;
 }
 #two_column {
     background-color: pink;
