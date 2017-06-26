@@ -15,13 +15,13 @@ h2 {
   padding: .8em 0;
 }
 nav {
-  font-size: 1.5em;
+  font-size: 1.2em;
   float: right;
 }
 nav a { 
   text-decoration: none;
   color: black;
-  margin: 1.5em;
+  margin: 1.2em;
   display: inline-block;
 }
 ul {
@@ -44,6 +44,9 @@ ul {
     padding-bottom: 10px;
     float: left;
     width: 30%;
+    font-size: 1em;
+    font-weight: bold;
+    font-style: sans-serif;
 }
 
 #right {
@@ -52,6 +55,8 @@ ul {
     padding: 10px;
     float: right;   
     width: 62%;
+    font-size: 1em;
+    font-family: sans-serif;
 }
 .clearfix:after {
     visibility: hidden;
