@@ -2,6 +2,7 @@ body {
   font-size: 18px;
   font-family: sans-serif;
   background-image: url("images/catandmural.jpg");
+  background-size: 100% 100%;
 }
 h1, h2 {
   text-transform: lowercase;
@@ -20,13 +21,13 @@ ul {
   padding: 0;
 }
 #two_column {
-    background-color: yellow;
+    background-color: pink;
     border: 0px;
     padding: 10px;
 }
 
 #left {
-    background-color: yellow;
+    background-color: pink;
     border: 0px;
     padding-right: 0px;
     padding-left: 10px;
@@ -37,7 +38,7 @@ ul {
 }
 
 #right {
-    background-color: yellow;
+    background-color: pink;
     border: 0px;
     padding: 10px;
     float: right;   
