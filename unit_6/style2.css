@@ -1,8 +1,7 @@
 body {
   font-size: 18px;
   font-family: sans-serif;
-  background-image: url("images/springleaves.jpg");
-  background-size: 100% 100%;
+  background-color: white;
 }
 h1, h2 {
   text-transform: lowercase;
@@ -14,6 +13,10 @@ h1 {
 h2 {
   font-size: 1.5em;
   padding: .8em 0;
+}
+nav {
+  font-size: 1.8em;
+  float: right;
 }
 ul {
   list-style: none;
