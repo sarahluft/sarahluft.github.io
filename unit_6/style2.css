@@ -20,13 +20,13 @@ ul {
   padding: 0;
 }
 #two_column {
-    background-color: #FFB7CF;
-    border: 1px black solid;
-    padding: 20px;
+    background-color: yellow;
+    border: 0px;
+    padding: 10px;
 }
 
 #left {
-    background-color: violet;
+    background-color: yellow;
     border: 0px;
     padding-right: 0px;
     padding-left: 10px;
@@ -37,7 +37,7 @@ ul {
 }
 
 #right {
-    background-color: pink;
+    background-color: yellow;
     border: 0px;
     padding: 10px;
     float: right;   
