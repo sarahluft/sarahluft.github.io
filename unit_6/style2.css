@@ -2,7 +2,6 @@ body {
   font-size: 18px;
   font-family: sans-serif;
   background-image: url("images/catandmural.jpg");
-  background-color: #cccccc;
 }
 h1, h2 {
   text-transform: lowercase;
