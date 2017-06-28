@@ -57,6 +57,10 @@ ul {
 #about {
   max-width: 650px;
   margin: 0 auto;
+  background-color: white;
+  padding: white;
+  border: white;
+  margin: white;
 }
 #resume {
     background-color: pink;
