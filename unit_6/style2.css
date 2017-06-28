@@ -1,7 +1,10 @@
 body {
   font-size: 18px;
   font-family: sans-serif;
-  background-color: white;
+  background-image: url(images/catandmural.jpg);
+  background-size: cover;
+}
+#hero { height: calc(100vh - 322px);
 }
 h1, h2 {
   text-transform: lowercase;
