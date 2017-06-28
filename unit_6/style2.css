@@ -4,7 +4,7 @@ body {
   background-image: url(images/springleaves.jpg);
   background-size: cover;
 }
-#hero { height: calc(100vh - 322px);
+#hero {height: calc(100vh - 322px);
 }
 h1, h2 {
   text-transform: lowercase;
@@ -28,9 +28,24 @@ nav a {
   margin: 1em;
   display: inline-block;
 }
-
+#topnav {
+  background-color: white;
+  border: 0px;
+  padding: 10px;
+}
 #sarah {
-  padding-right: 5em;
+  background-color: white;
+  border: 0px;
+  padding: 0px;
+  float: left;
+  width: 30%;
+}
+#rightnav {
+  background-color: white;
+  border: 0px;
+  padding: 0px;
+  float: right;
+  width: 70%;
 }
 #nav2 {
   float: left;
@@ -44,13 +59,12 @@ ul {
   max-width: 650px;
   margin: 0 auto;
 }
-#two_column {
+#resume {
     background-color: pink;
     border: 0px;
     padding: 10px;
 }
-
-#left {
+#title {
     background-color: pink;
     border: 0px;
     padding-right: 0px;
@@ -64,7 +78,7 @@ ul {
     font-style: sans-serif;
 }
 
-#right {
+#details {
     background-color: pink;
     border: 0px;
     padding: 10px;
