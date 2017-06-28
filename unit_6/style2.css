@@ -38,14 +38,12 @@ nav a {
   border: 0px;
   padding: 0px;
   float: left;
-  width: 30%;
 }
 #rightnav {
   background-color: white;
   border: 0px;
   padding: 0px;
   float: right;
-  width: 70%;
 }
 #nav2 {
   float: left;
