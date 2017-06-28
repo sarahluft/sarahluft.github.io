@@ -36,7 +36,8 @@ nav a {
 #sarah {
   background-color: white;
   border: 0px;
-  padding: 0px;
+  padding-left: 0px;
+  padding-right: 3em;
   float: left;
   max-width: 20%;
 }
